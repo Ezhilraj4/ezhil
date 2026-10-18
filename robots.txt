@@ -1,9 +1,7 @@
+User-agent: *
+Allow: /
 
 User-agent: OAI-SearchBot
 Allow: /
 
-User-agent: GPTBot
-Allow: /
-
-User-agent: *
-Allow: /
+Sitemap: https://ezhilraj4.github.io/ezhil/sitemap.xml
