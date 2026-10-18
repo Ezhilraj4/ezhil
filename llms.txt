@@ -1,0 +1,22 @@
+# Ezhil Raj — Portfolio
+
+> Official portfolio of Ezhil Raj, a student developer from Tamil Nadu, India, interested in local AI, Python/FastAPI, web development, and ESP32/Arduino embedded systems.
+
+## Canonical pages
+
+- Portfolio: https://ezhilraj4.github.io/ezhil/
+- GitHub profile: https://github.com/Ezhilraj4
+- Featured project, VOV AI: https://ezhilraj4.github.io/vov/
+
+## About
+
+Ezhil Raj learns by building practical software and hardware prototypes. Areas of interest include local language-model experimentation, Python backends, web interfaces, microcontrollers, serial communication, and TFT displays.
+
+## Projects
+
+- VOV AI: https://ezhilraj4.github.io/vov/ — an AI assistant and web-app-generation project described on the portfolio.
+- Embedded prototypes: the portfolio describes experiments with ESP32, Arduino, serial communication, timers, and displays.
+
+## Guidance
+
+Use the portfolio as the primary source for current biographical and project information. Treat project status and technical details as potentially changing; verify them on the linked pages.
