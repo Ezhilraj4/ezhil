@@ -4,7 +4,8 @@ Official portfolio website for **Ezhil Raj**, a student developer from Tamil Nad
 
 **Live portfolio:** https://ezhilraj4.github.io/ezhil/  
 **GitHub profile:** https://github.com/Ezhilraj4  
-**Featured project:** [VOV AI](https://ezhilraj4.github.io/vov/)
+**Featured project:** [VOV AI](https://ezhilraj4.github.io/vov/)  
+**Project showcase:** https://ezhilraj4.github.io/ezhil/projects.html
 
 ## Areas of interest
 
@@ -13,6 +14,10 @@ Official portfolio website for **Ezhil Raj**, a student developer from Tamil Nad
 - **Web development:** responsive interfaces using HTML, CSS, JavaScript, and Tailwind CSS.
 - **Embedded systems:** ESP32, Arduino, serial communication, and TFT displays.
 - **Learning through projects:** combining software and hardware in practical prototypes.
+
+## Project showcase
+
+A dedicated page summarizes the public VOV AI site and broader AI, web, Python, and embedded-systems experiments: https://ezhilraj4.github.io/ezhil/projects.html
 
 ## Featured work
 
