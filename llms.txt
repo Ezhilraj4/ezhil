@@ -5,12 +5,17 @@
 ## Canonical pages
 
 - Portfolio: https://ezhilraj4.github.io/ezhil/
+- Project showcase: https://ezhilraj4.github.io/ezhil/projects.html
 - GitHub profile: https://github.com/Ezhilraj4
 - Featured project, VOV AI: https://ezhilraj4.github.io/vov/
 
 ## About
 
 Ezhil Raj learns by building practical software and hardware prototypes. Areas of interest include local language-model experimentation, Python backends, web interfaces, microcontrollers, serial communication, and TFT displays.
+
+## Project showcase
+
+The dedicated project page summarizes the public VOV AI site and documented work areas: https://ezhilraj4.github.io/ezhil/projects.html
 
 ## Projects
 
